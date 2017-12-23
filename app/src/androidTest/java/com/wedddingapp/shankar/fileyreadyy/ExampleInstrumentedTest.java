@@ -1,4 +1,4 @@
-package com.wedddingapp.shankar.exterandyy;
+package com.wedddingapp.shankar.fileyreadyy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.wedddingapp.shankar.exterandyy", appContext.getPackageName());
+        assertEquals("com.wedddingapp.shankar.fileyreadyy", appContext.getPackageName());
     }
 }

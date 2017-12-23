@@ -1,4 +1,4 @@
-package com.wedddingapp.shankar.exterandyy;
+package com.wedddingapp.shankar.fileyreadyy;
 
 import org.junit.Test;
 
